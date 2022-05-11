@@ -4,8 +4,6 @@ on:
   push:
     branches: [main]
 
-permissions: read-all | write-all
-
 jobs:
   release:
     name: "Lastest Release"
@@ -42,4 +40,4 @@ jobs:
         automatic_release_tag: "v1.x.x"
         prerelease: false
         title: "IT003.M21.PMCL-Nhom14_v1.0.0"
-        files: IT003.M21.PMCL-Nhom14_v1.0.0.zip
+        files: "IT003.M21.PMCL-Nhom14_v1.0.0.zip"
