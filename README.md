@@ -5,7 +5,6 @@
 [![Release Status](https://img.shields.io/github/workflow/status/hoanghy0112/IT003.M21.PMCL-Nhom14/Lastest%20Release?label=RELEASE&style=for-the-badge)](https://github.com/hoanghy0112/IT003.M21.PMCL-Nhom14/actions)
 ![Languages](https://img.shields.io/github/languages/top/hoanghy0112/IT003.M21.PMCL-Nhom14?style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/hoanghy0112/IT003.M21.PMCL-Nhom14?style=for-the-badge)
-![License](https://img.shields.io/github/license/hoanghy0112/IT003.M21.PMCL-Nhom14?style=for-the-badge)
 [![Download](https://img.shields.io/github/downloads/hoanghy0112/IT003.M21.PMCL-Nhom14/v1.x.x/total?style=for-the-badge)](https://github.com/hoanghy0112/IT003.M21.PMCL-Nhom14/releases/tag/v1.x.x)
 
 ## I. Requirements
